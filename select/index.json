@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Disco FLO",
+  "base_artist": "梓川",
+  "createdAt": "2026-02-11T08:57:11.139430Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Disco FLO",
+      "artist": "Azsagawa",
+      "has_synced": false,
+      "path": "select/01_Disco_FLO_Azsagawa.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Disco FLO",
+      "artist": "梓川",
+      "has_synced": false,
+      "path": "select/pl_01_Disco_FLO_梓川.txt"
+    }
+  ]
+}
